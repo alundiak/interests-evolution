@@ -1,0 +1,19 @@
+#chart, #cloud {
+  display: inline-block;
+}
+
+/* As soon as Google Chrome Canary released - try CSS Nesting */
+
+.c3-region.Q1 {
+  fill: gray;
+}
+.c3-region.Q2 {
+  fill: green;
+}
+.c3-region.Q3 {
+  fill: blue;
+}
+.c3-region.Q4 {
+  fill: yellow;
+}
+

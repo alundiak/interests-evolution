@@ -1,0 +1,19 @@
+{
+  "name": "@lundiak/interests-evolution",
+  "version": "1.0.0",
+  "description": "My Interests Evolution - represented as chart and clouds",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alundiak/interests-evolution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alundiak/interests-evolution/issues"
+  },
+  "homepage": "https://alundiak.github.io/interests-evolution"
+}
